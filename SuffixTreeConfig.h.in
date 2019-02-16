@@ -1,0 +1,4 @@
+// the configured options and settings for SuffixTree
+#define SuffixTree_VERSION_MAJOR @SuffixTree_VERSION_MAJOR@
+#define SuffixTree_VERSION_MINOR @SuffixTree_VERSION_MINOR@
+
